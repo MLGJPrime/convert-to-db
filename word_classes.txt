@@ -1,0 +1,3 @@
+Class ID | Name     | Translation
+       1 | Pronouns | pronoms    
+       2 | Verbs    | verbes     

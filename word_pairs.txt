@@ -1,0 +1,12 @@
+Word Pair ID | Class ID | Phrase | Translation
+           1 |        1 | I      | je         
+           2 |        1 | you    | tu         
+           3 |        1 | he     | il         
+           4 |        1 | she    | elle       
+           5 |        1 | we     | nous, on   
+           6 |        1 | you    | vous       
+           7 |        1 | they   | ils, elles 
+           1 |        2 | go     | aller      
+           2 |        2 | come   | venir      
+           3 |        2 | talk   | parler     
+           4 |        2 | walk   | marcher    
