@@ -67,7 +67,8 @@ def main():
     word_pair_dicts = []
     for idx, word_class in enumerate(word_classes):
         if idx < len(word_classes) - 1:
-            pattern = re.escape(word_class) + r'(.*?)' + re.escape(word_classes[idx+1])
+            pattern = re.escape(word_class) + r'(.*?)' \
+                      + re.escape(word_classes[idx+1])
         else:
             pattern = re.escape(word_class) + r'(.*)$'
         word_class_content = re.search(pattern, content, re.DOTALL).group(1)
@@ -82,8 +83,16 @@ def main():
                 "Translation": translation
             })
 
-    print_and_save(word_class_dicts, ["Class ID", "Name", "Translation"], 'word_classes.txt')
-    print_and_save(word_pair_dicts, ["Word Pair ID", "Class ID", "Phrase", "Translation"], 'word_pairs.txt')
+    print_and_save(
+        word_class_dicts,
+        ["Class ID", "Name", "Translation"],
+        'word_classes.txt'
+    )
+    print_and_save(
+        word_pair_dicts,
+        ["Word Pair ID", "Class ID", "Phrase", "Translation"],
+        'word_pairs.txt'
+    )
 
 
 if __name__ == "__main__":
