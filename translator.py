@@ -1,7 +1,13 @@
+"""
+This module provides a function to translate French phrases to German.
+It includes a main function for testing purposes.
+"""
+
 from googletrans import Translator
 
 
 def translate_to_german(word_tuples):
+    """Translates a list of French phrases to German."""
     translator = Translator()
     for i in range(len(word_tuples)):
         phrase, translation = word_tuples[i]
@@ -12,6 +18,7 @@ def translate_to_german(word_tuples):
 
 
 def main():
+    """Main function for testing the translate_to_german function."""
     word_tuples = [
         ("je suis allé au marché", "i went to the market"),  # noqa: E501
         ("il fait très chaud aujourd'hui", "it's very hot today"),  # noqa: E501

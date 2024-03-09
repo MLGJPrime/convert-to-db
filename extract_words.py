@@ -1,7 +1,14 @@
+"""
+This script processes a text file containing French phrases
+and their translations. It extracts word classes and word pairs,
+generates unique IDs for them, and saves the results into separate text files.
+"""
+
 import re
 
 
 def extract_word_classes(file_path):
+    """Extracts word classes from the given file."""
     with open(file_path, 'r') as file:
         content = file.read()
     word_classes = re.findall(r'\*([^*]*)\*', content)
@@ -9,16 +16,19 @@ def extract_word_classes(file_path):
 
 
 def extract_word_pairs(content):
+    """Extracts word pairs from the given content."""
     pattern = r'(\b\w+\b)\s*-\s*(.*)'
     word_pairs = re.findall(pattern, content)
     return word_pairs
 
 
 def generate_class_id_map(word_classes):
+    """Generates a map from word classes to unique IDs."""
     return {word_class: idx+1 for idx, word_class in enumerate(word_classes)}
 
 
 def print_and_save(word_dicts, headers, file_name):
+    """Prints the word dictionaries and saves them to a file."""
     max_widths = [len(header) for header in headers]
     for word_dict in word_dicts:
         max_widths = [
@@ -48,6 +58,7 @@ def print_and_save(word_dicts, headers, file_name):
 
 
 def generate_word_class_dicts(word_classes):
+    """Generates a list of dictionaries."""
     word_class_dicts = []
     for idx, word_class in enumerate(word_classes):
         name, translation = map(str.strip, word_class.split('-'))
@@ -60,6 +71,7 @@ def generate_word_class_dicts(word_classes):
 
 
 def generate_word_pair_dicts(word_classes, class_id_map, content):
+    """.Generates a list of dictionaries."""
     word_pair_dicts = []
     for idx, word_class in enumerate(word_classes):
         if idx < len(word_classes) - 1:
@@ -82,6 +94,7 @@ def generate_word_pair_dicts(word_classes, class_id_map, content):
 
 
 def process_file(input_file_path):
+    """Extracts word classes and word pairs, and saves the results."""
     with open(input_file_path, 'r') as file:
         content = file.read()
 
