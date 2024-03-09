@@ -1,4 +1,4 @@
-*Pronouns - pronoms*
+*pronouns - pronoms*
 I - je
 you - tu
 he - il
@@ -8,7 +8,7 @@ we - nous, on
 you - vous
 they - ils, elles
 
-*Verbs - verbes*
+*verbs - verbes*
 to go - aller
 to come - venir
 to talk - parler

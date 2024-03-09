@@ -1,0 +1,15 @@
+*pronomen - pronouns*
+ich - I 
+du - you 
+er - he 
+sie - she 
+es  - it (is) 
+wir - we 
+ihr - you 
+sie - they 
+
+*verben - verbs*
+gehen - to go 
+kommen - to come 
+sprechen - to talk 
+gehen - to walk 
