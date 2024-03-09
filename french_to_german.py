@@ -47,14 +47,7 @@ def print_and_save(word_dicts, headers, file_name):
             ) + "\n")
 
 
-def main():
-    input_file_path = 'french.txt'
-    with open(input_file_path, 'r') as file:
-        content = file.read()
-
-    word_classes = extract_word_classes(input_file_path)
-    class_id_map = generate_class_id_map(word_classes)
-
+def generate_word_class_dicts(word_classes):
     word_class_dicts = []
     for idx, word_class in enumerate(word_classes):
         name, translation = map(str.strip, word_class.split('-'))
@@ -63,7 +56,10 @@ def main():
             "Name": name,
             "Translation": translation
         })
+    return word_class_dicts
 
+
+def generate_word_pair_dicts(word_classes, class_id_map, content):
     word_pair_dicts = []
     for idx, word_class in enumerate(word_classes):
         if idx < len(word_classes) - 1:
@@ -82,6 +78,19 @@ def main():
                 "Phrase": original,
                 "Translation": translation
             })
+    return word_pair_dicts
+
+
+def process_file(input_file_path):
+    with open(input_file_path, 'r') as file:
+        content = file.read()
+
+    word_classes = extract_word_classes(input_file_path)
+    class_id_map = generate_class_id_map(word_classes)
+
+    word_class_dicts = generate_word_class_dicts(word_classes)
+    word_pair_dicts = generate_word_pair_dicts(
+        word_classes, class_id_map, content)
 
     print_and_save(
         word_class_dicts,
@@ -93,6 +102,11 @@ def main():
         ["Word Pair ID", "Class ID", "Phrase", "Translation"],
         'word_pairs.txt'
     )
+
+
+def main():
+    input_file_path = 'french.txt'
+    process_file(input_file_path)
 
 
 if __name__ == "__main__":
