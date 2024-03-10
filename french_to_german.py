@@ -15,7 +15,11 @@ def translate_phrases(input_file_path):
     with open(input_file_path, 'r') as f_in:
         for line in f_in:
             if '-' in line:
-                translation, phrase = line.split('-')
+                try:
+                    translation, phrase = line.split(' - ')
+                except ValueError:
+                    print(f"Error processing line: {line}")
+                    continue
                 if '*' in translation:
                     translation = translation.replace('*', '').strip() + '*'
                     phrase = '*' + phrase.replace('*', '').strip()

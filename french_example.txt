@@ -1,0 +1,15 @@
+*pronouns - pronoms*
+I - je
+you - tu
+he - il
+she - elle
+it (is) - c'est
+we - nous, on
+you - vous
+they - ils, elles
+
+*verbs - verbes*
+to go - aller
+to come - venir
+to talk - parler
+to walk - marcher

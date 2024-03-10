@@ -4,12 +4,13 @@ It includes a main function for testing purposes.
 """
 
 from googletrans import Translator
+from tqdm import tqdm
 
 
 def translate_to_german(word_tuples):
     """Translates a list of French phrases to German."""
     translator = Translator()
-    for i in range(len(word_tuples)):
+    for i in tqdm(range(len(word_tuples)), desc="Translating phrases"):
         phrase, translation = word_tuples[i]
         translated_phrase = translator.translate(
             phrase.lower(), src='fr', dest='de').text
