@@ -1,0 +1,1473 @@
+*pronomen - Pronouns*
+ich - I
+du - You
+er - He
+sie - She
+es ist - It (is)
+wir sind - We
+du - You
+sie sie - They
+jede - Each
+etwas - Something
+nächste - Next
+alle - Everything
+nichts - Nothing
+alle - Everyone
+keiner - Any
+andere - Other, another
+anderswo - Elsewhere
+
+*verben - Verbs*
+gehen - to go
+komm, ankommen - to come
+sprechen - to talk
+lauf lauf - to walk, stroll
+essen - to eat
+nehmen - to have, take
+trinken - to drink
+sehen - to see
+sehen - to watch
+von (bâtimont) - to leave (the building)
+aussteigen (raum) - to leave (the room)
+drehen - to turn
+lesen - to read
+schreiben - to write
+want (+ infinitiv) - to want (+ infinitive)
+macht (+ infinitiv) - to be able (+ infinitive)
+devoire (+ infinitiv) - to have to (+ infinitive)
+kochen, kochen - to cook
+transportieren, setzen - to wear
+setzen - to don
+bleiben - to stay
+vorbereiten - to make, prepare a meal
+offen - to open
+schließen - to close
+spielen - to play
+hören - to listen (to)
+traum - to dream
+mögen - to like, love
+kaufen - to buy
+hass hass - to hate
+benutzen - to use
+springen - to jump
+denken - to think
+aufstehen - to get up
+wird wollen - to want (formally)
+warten auf - to wait
+finden - to find
+tanzen - to dance
+reisen - to travel
+besuchen - to visit
+singen - go sing
+ziehen - to draw
+schwimmen - to swim
+wissen - to know something
+wissen - to know someone
+passieren - to spend
+machen - to go, do, take
+verstehen - to understand
+lernen - to learn, teach
+brauchen - to need
+beenden - to finish
+wählen - to choose
+buchen - to book
+daraus schließen - to conclude
+enthalten - to include
+rauchen - to smoke
+pendeln - to start
+zurückgeben - to go back (home)
+vergessen - to forget
+ins bett gehen - to go to bed
+fliege - to fly
+wüsten - to desert
+ich, te, se, wir, weck dich auf - to wake up
+bürste - to brush
+schnee - to snow
+regen - to rain
+hören - to hear
+einladen - to invite
+fühlen, fühlen, schauen - to feel
+schlafen - to sleep
+überprüfen - to check
+helfen - to help
+laufen - to run
+zeigen - to show
+anstreichen - to paint
+bringen - to bring
+zustimmen - to agree
+anrufen - to call
+treffen - to meet
+fangen - to catch
+reinigen - to clean
+fischen - to fish
+aussehen - to resemble
+sagen - to say
+bedeuten - to mean
+fahren - to drive
+waschen - to wash
+suchen - to look for
+wechseln - to change
+sitzen - to sit
+glauben - to believe
+zahlen - to pay
+schicken - to send
+fragen - to ask for
+antwort - to answer
+geben - to give, present
+erinnern - to remember
+stoppen - to stop
+abrufen - to reminisce
+arbeiten - to work, practise
+finden - to track down
+brauchen - to need to do/be necessary
+pflicht - to owe
+live - to live
+schlag - to hit
+schneiden - to cut
+enthalten - to contain
+handeln - to act
+zu entfernen - to take off, remove
+werden - to become
+werfen, werfen, projizieren - to throw
+verdienen - to win, earn
+dank - to thank
+niederlegen - to ask, pose, put
+besitzen - to own
+verlieren - to lose
+respektieren - to respect
+bestrafen - to punish
+eingeben - to grab, seize
+halten - to hold
+folgen - to follow
+vorschlagen - to offer
+wünschen - to wish
+verkaufen - to sell
+befehl - to order
+ende, ende - to end
+sorge - to be about, consern
+aktie - to divide, share
+speichern - to save, register
+hinzufügen - to add
+zurück geben - to return
+zitieren - to quote, mention in sth
+wegbringen - to take sb
+leer - to empty
+kochen, toast - to boil, grill
+schmecken - to taste
+verstecken - to hide
+verdienen - to deserve
+abschalten - to blow out/put out
+belastung - to load
+verbinden - to connect
+leuchten - to turn on
+weitermachen - to continue
+verbessern - to improve
+bestätigen - to affirm
+zu etwas gehören - to belong to
+bräunen - to tan
+zweifeln - to doubt
+wechseln - to exchange
+neigung - to leave sth
+halten - to keep
+erklären - to explain
+lüge - to lie
+monquer (monquer at) - to (be) miss(ed)
+wiegen - to weigh
+erhalten - to receive
+knurren - to growl
+brechen - to break
+ausruhen - to rest
+verweigern - to refuse
+vertreten - to represent
+zu bemerken - to notice
+erscheinen - to seem
+anmachen - to turn over
+zurück geben - to return, render
+zurückkommen - to come back
+bedeuten - to mean
+annehmen - to suppose
+herunterkommen - to go down, descend
+wird benutzt für - to serve for
+erkenne - to recognize
+kreuzen - to cross
+segeln - to go boating
+fett werden - to gain weight
+abnehmen - to lose weight
+wachsen - to grow
+füllen - to fill up
+ausleihen - to borrow
+ausgeben - to spend (money)
+abdeckung - to cover up
+zu begrüßen - to host
+leihen - to lend
+zurückziehen - to take out 
+mischen - to blend
+preferoire - to invite
+sich durchsetzen - to plan
+erhalten - to receive, have over
+sich beeilen - to hurry
+vermissen - to fail, miss
+zu parken - to park
+ordentlich - to tidy, put away
+lachen - to laugh
+erstellen - to create
+drücken - to push
+hoffnung - to hope
+sich an etwas gewöhnen - to get used to
+präsentieren - to introduce
+stören - to bother
+manifest - to protest
+klicken - to click
+zu drucken - to print
+einander lieben - to improve
+bluten - to bleed
+erzählen - to tell
+lächeln - to smile
+zufrieden stellen - to please
+landen - to land
+abheben - to take off (plane)
+zurück geben - to make (sb sth)
+erreichen - to reach (hit a person)
+sperren - to lock (off)
+zug (zug) - to train (formally)
+abbauen - to break down
+reduzieren - to reduce
+kämpfen - to fight
+() verletzt, verletzt - to hurt (self)
+brennen - to burn
+(rasieren - to shave (self)
+umzug - to relocate
+in verlegenheit bringen - to disturb
+still sein - to be quiet
+keil - to shock
+verlassen - to leave sb
+in verlegenheit bringen - to embarrass
+vergleichen - to compare
+flip - to ger bigger
+argumentieren - to argue
+sich kümmern um - to take care of
+leihen - to lend
+übersehen - to face sth
+versammeln - to cut fruit
+entstehen aus - to come from
+profitieren von - to benefit from
+verwalten - to manage
+genügen - to suffice
+angeben - to indicate
+zugreifen - to access
+verschreiben - to prescribe
+sich auflösen - to dissolve
+schlucken - to swallow
+arbeiten - to operate
+gute besserung - to get well
+sich irren - to be mistaken
+zögern - to hesitate
+beraten - to advise
+begehren - to desire
+gießen - to pour
+darauf ankommen - to depend on
+kaution - to file, deposit
+einweichen - to soak
+schlagen - to beat
+mischen - to mix
+vorausgesehen - to be foreseen
+variable - to vary
+schwimmen - to bathe
+zunahme - to augment
+siedeln - to settle down
+bleiben - to stay (somewhere)
+landen - to land
+wieder aufzunehmen - to resume
+anerkennen - to appreciate
+genießen - to enjoy
+entdecken - to discover
+leihen - to lend
+() - to locate (self)
+verhindern - to warn, prevent
+stören - to disturb
+wunder - to wonder
+sich an etwas gewöhnen - to get used to
+üben - to practice
+registrieren - to register
+abtrocknen - to dry off
+kreuzen - to cross (pass)
+erneuern - to renew
+
+*stücke (haus) - Rooms (house)*
+das wohnzimmer - Living room
+die küche - Kitchen
+schlafzimmer - Bedroom
+das badezimmer, die toilette - Bathroom
+die eingangshalle - entrance hall, room
+büro - Office
+das klassenzimmer - Classroom
+la salle de rèunion
+ - Meeting room
+die höhle - Cellar
+der aufenthalt - Hall
+der schlüssel - Key
+tisch - Table
+der stuhl - Chair
+das fenster - Window
+fernseher - TV
+le frigo
+ - Refrigerator
+die dusche - Shower
+kleiderschrank - Cupbord
+der spiegel - Mirror
+une assiette
+ - Plate
+die schale - Bowl
+der löffel - Spoon
+la fourchettes
+ - Fork
+besteck - Cutlery
+informationen (+plural) - News
+un étage
+ - Floor
+le plafond
+ - Ceiling
+die mauer - Wall
+le canapé
+ - Couch
+der boden/der boden - Floor (of house)
+das schwimmbecken - Pool
+cache
+ - Hiding place
+le berceau
+ - Crib
+la couverture
+ - Blanket
+baignoire
+ - Bathtub
+un évier
+ - Sink
+le rideau
+ - Curtain
+une étagère
+ - Shelf
+le rez-de-chaussée
+ - Ground floor
+la commode
+ - Dresser
+die schublade - Drawer
+fliesen - Tiles
+das erdgeschoss - Ground floor
+der aufzug - Lift
+der kassierer - Locker
+le vestiaire
+ - Locker room
+le rayon
+ - Shelf (store)
+le dessin animé
+ - Cartoon
+
+*tiere - Animals*
+le chat
+ - Cat
+der hund - Dog
+le chouette
+ - Owl
+le cheval
+ - Horse
+la vache
+ - Cow
+das kaninchen - Rabbit
+l'oiseau
+ - Bird
+le tortue
+ - Turtle
+poulet
+ - Chicken
+coq
+ - Cock
+le poisson
+ - Fish
+le singe
+ - Monkey
+le lion
+ - Lion
+le tigre
+ - Tiger
+die maus - Mouse
+elefant - Elephant
+ente - Duck
+le cochon
+ - Pig
+un ours
+ - Bear
+la mouche
+ - Fly
+der hai - Shark
+der delfin - Dolphin
+une araignée
+ - Spider
+le serpent
+ - Snake
+une abeille
+ - Bee
+die ameise - Ant
+der schmetterling - Butterfly
+la baleine
+ - Whale
+le loup/la louve
+ - Wolf
+une insecte
+ - Insect
+une espèce
+ - Species
+die ziege - Goat
+
+*nourritures - Food*
+frühstück - Breakfast
+déjeuner
+ - Lunch
+dîner
+ - Dinner
+désert
+ - Desert
+apfel - Apple
+orange
+ - Orange
+œuf
+ - Egg
+brot - Bread
+wasser - Water
+milch - Milk
+pizza
+ - Pizza
+kuchen - Cake
+confiture
+ - Jam
+erdbeere - Strawberry
+miel
+ - Honey
+butter - Butter
+die zitrone - Lemon
+tomate - Tomato
+la viande
+ - Meat
+reis - Rice
+glace
+ - Ice cream
+messwasser - Sparkling water
+keks - Biscuit
+soupe
+ - Soup
+la crêpe épais
+ - Pancake
+schweinefleisch - Pork
+le bœuf
+ - Beef
+öl - Oil
+zwiebel - Onion
+die traube - Grapes
+le bonbon
+ - Candy
+der pfeffer - Pepper
+bohne - Bean
+les patês
+ - Pasta
+das müsli - Cereal
+la courgette
+ - Zucchini
+wurst/wurst - Sausage
+die birne - Pear
+die schlagsahne - Whipped cream
+mehl - Flour
+la pancement
+ - Band aid
+medikamente - Medication
+der eiswürfel - Ice cube
+die dose - Can
+samen - Seeds
+spinat - Spinach
+blumenkohl - Cauliflower
+die essiggurke - Pickle
+der kürbis - Pumpkin
+la ciboulette
+ - Chive
+die pflaume - Plum
+die basilikum - Basil
+la purée de pommes de terre
+ - Mashed potaties
+rindfleischsteak - Beefsteak
+eine unterstützung - Side dish
+un ingrédient
+ - Ingredient
+le mélange
+ - Mix
+boudoir - Ladyfinger
+le régal
+ - Treat
+ein kabeljau acra - Cod acra
+kalbseintopf - veal blanquette
+
+*gebäude, gebäude - Buildings*
+eine kirche - Church
+schule - School
+der wolkenkratzer - Skyscraper
+ein krankenhaus - Hospital
+la boulangerie
+ - Bakery
+das geschäft - Store
+das upermarché/a grock - Grocery store
+das haus - House
+eine universität - University
+das kino - Movie theatre
+das museum - Museum
+ein flughafen - Airport
+fabrik - Factory
+ein gebäude - Apartment building
+die brücke - Bridge
+der ort/ein ort - Place
+süßwaren - Sweets shop
+die bibliothek - Library
+der bücherladen - Bookstore
+weiterführende schule - High school
+le salon de coiffure
+ - Barbershop
+die apotheke - Pharmacy
+le port
+ - Port
+das geschäft - Boutique
+die bar - Bar
+metzgerei - Butcher shop
+rathaus - City hall
+das postamt - Post office
+das tourismusbüro - Tourist office
+quartal - Neighborhood
+stadion - Stadium
+der bauernhof - Farm
+gebäck - Pastry shop
+theater - Theatre
+
+*dinge - Things*
+stift - Pen
+computer - Computer
+handy - Phone, smartphone
+koffer - Briefcase
+ball, ballon - Ball
+notizbuch - Notebook
+buch - Book
+volumen - Exercise book
+tasche - Bag
+uhr - Clock
+handtuch - Towel
+geld - Money
+passwort - Password
+coteau
+ - Knife
+papier - Paper
+malerei  - Painting
+cadeau
+ - Gift, present
+kamera - Camera
+poupée
+ - Doll
+kasten - Box
+geldbörse - Wallet
+der kalender - Calendar
+die scheibe - Disc
+der ordner - File, folder
+das parfüm - Perfume
+die flagge - Flag
+das pulver - Powder
+un écran
+ - Screen
+un adaptateur
+ - Adaptor
+ein umschlag - Envelope
+rad - Wheel
+das licht - Light
+une allumette
+ - Match
+die kerze - Candle
+das ladegerät - Charger
+ein werkzeug - Tool
+der regenschirm - Umbrella
+la croix
+ - Cross
+faden - Thread
+die karte - Card
+die kiste - Crate
+der rahmen - Frame
+der mülleimer - Trash can
+ein plakat - Poster
+le timbre
+ - Post stamp
+ein umschlag - Envelope
+räume - Coins
+die kreditkarte - Debit card
+die titelseite - Blanket
+das spielzeug - Toy
+le jeu vidéo
+ - Video game
+das brettspiel - Board game
+die schere - Scissors
+das bügeleisen - Iron
+stahl - Steel
+das kupfer - Copper
+stein - Stone
+das gas - Gas
+die seide - Silk
+eine arbeit - Work (art)
+abfall - Garbage
+die briefmarke - Pill
+der fotokopierer - Photocopier
+das gefäss - Jar
+die mikrowelle - Microwave
+la machine à laver
+ - Washing machine
+die fernbedienung - Remote control
+der schlüsselbund - Keychain
+gegenseitige karte - Health insurance card
+die pille - Pill
+tablette - Tablet
+ein schmerzmittel - Painkiller
+müll - Basket
+sonnencreme - Sunscream
+
+*kleidung - Clothes*
+das kleid - Dress
+das kostüm, schneider - Suit
+la jupe
+ - Skirt
+le pantalon
+ - Pants
+le teeshirt
+ - T-shirt
+chemise, chemisier
+ - Shirt
+jacke - Jacket
+pullover - Sweater
+schuhe - Shoes
+hausschuhe - Slippers
+slip, calcif - Underpants
+sous-vêtemants
+ - Underwear
+hut - Cap
+manteau
+ - Coat
+gläser - Glasses
+stiefel - Boot
+jeans - Jeans
+die dose - Belt
+die tasche - Pocket
+der handschuh - Glove
+die socke - Sock
+la cravate
+ - Tie
+ein schal - Scarf
+la casquette
+ - Hat
+ein regenmantel - Raincoat
+la collection
+ - Collection
+ein zubehör - Accessiry
+der kanal - Sleeve
+die kleidung - Outfit
+les chaussures
+ - Shoes
+die bluse - Blouse
+die größe - Size
+der stoff - Fabric
+le style
+ - Style
+die dressingkabine - Fitting room
+das model - Model
+der brauch - Costume
+
+*sport - Sport*
+spielen bei - To play sth
+gut sein - To be good/bad at
+fußball - Football
+basketball ball) - Basketball
+tennis - Tennis
+golf
+ - Golf
+übereinstimmen - Match
+
+*adjektive - Adjectives*
+gut (besser, besser) - Good (better)
+schlecht, schlecht (schlimmer) - Bad (worse)
+schöne hübsche - Beautiful
+glücklich, glücklich/-euse - Happy
+lustig lustig - Funny
+gut - Well
+gentil
+ - Nice, kind
+intelligent - Intelligent
+clever - Clever
+schlau - Crafty
+offen - Open
+bauernhof - Closed
+nächste - Next
+liebling - Expensive
+billig - Cheap
+geizig - Cheap (person)
+jung - Young
+alt/-iille, ältere menschen - Old
+einfach - Easy
+schwierig - Difficult
+hübsch - Lovely, nice
+eigen - Clean
+eindrucksvoll - Great, proper
+verboten - Forbidden
+angemessen - Hungry
+asoiffé - Thirsty
+gebäude, gelangweilt werden - Bored
+froid
+ - Cold
+chaud
+ - Hot
+reich - Rich
+pouvre
+ - Poor
+dünn - Thin
+lounge
+ - Long
+schön, liebt - Nice, pleasant
+kurz - Short
+stress - Stressed
+müde - Tired
+krank - Sick, ill
+traurig - Sad
+neu/-i - New
+célèbre
+ - Famous
+vergessen - Forgotten
+allein - Alone
+sogar - Same
+diférent
+ - Different
+beschäftigt - Occupied
+favorit - Favourite
+entschuldigung - Sorry
+(sich irren - Wrong
+grund - Right
+sicher - Sure
+fett - Big, fat
+schnell - Quick
+schnell - Fast
+andere - Other
+besorgt - Worried
+zuletzt - Last
+ruhig - Calm
+klar - Clear
+sombre, foncé
+ - Dark
+stark - Strong
+riesig - Enormous
+böse - Vicious
+tier - Silly, stupid
+hart - Hard, tough
+hässlich hässlich - Ugly, disgusting
+trocken/-thèche - Dry
+schmutzig - Dirty
+licht/-ère - Light
+schwer - Heavy
+weich/-wucken - Mild, gentle
+wahr - True
+libre
+ - Available, free
+dick - Thick
+elektrisch - Electric
+real - Real
+pareil
+ - Alike, the same
+wohnung - Flat
+logik - Logical
+seltsam - Strange
+tief - Deep
+fest - Steady
+normal - Ordinary
+nutzlos - Useless
+privat - Private
+praktisch - Practical
+vollständig - Complete
+lebendig - Alive
+beliebt - Popular
+solide - Solid
+ende - Thin
+verantwortlich - Responsible
+sauvage
+ - Wild
+efficace
+ - Efficient
+geheimnis - Secret
+kraftvoll - Powerful
+falsch - False, wrong
+ideal - Ideal
+précieux
+ - Precious
+komfortabel - Comfortable
+rothaarige - Redheaded
+mehrere - Several
+offensichtlich - Obvious
+ruhig - Quiet
+angenehm - Pleasant
+schüchtern - Shy
+verrückt/-alle - Crazy
+lecker/-ireuse - Delicious
+süß/-nene - Cute
+täglich - Daily (journal)
+hebdomadaire
+ - Weekly (journal)
+spéciau
+ - Special
+laut - Noisy
+überfüllt - Crowded
+abbauen - Broken
+lächerlich - Ridiculous
+fremder - Foreign
+besichtigung - Tourist
+verletzt - Injured
+bestimmt - Certain
+befriedigt - Satisfied
+wütend, wütend - Angry
+vorauszahlung - Advanced
+kahl - Bald
+aktuell - Current
+wesentlich - Major
+alt/-ee - Former
+franc
+ - Frank, honest
+vorsichtig - Careful
+weise - Well-behaved
+verschmutzt - Polluted
+blind - Blind
+taub - Deaf
+ordentlich - Tidy
+schick - Stylish
+angoissé
+ - Anxious
+mouillé
+ - Wet
+offensichtlich - Certain
+gerührt - Moved, touched
+friedlich - Gentle
+kosten - Fresh
+zucker - Sweet
+juteux
+ - Juicy
+schmerzlich - Painful
+effervescent
+ - Effervescent
+kompliziert - Complicated
+genau - Precise
+neugierig - Curious
+ungeduldig - Impatient
+hauptsächlich - Main
+matching - Matched
+hors de prix
+ - Overpriced
+licht - Light
+breit - Large
+appetitlich - Appetizing
+frisch - Fresh
+délicat
+ - Delicate
+liebhaber - In love
+eule - Satisfied?
+jaloux
+ - Jealous
+luxuriös/-euese - Luxurious
+begrüßung - Welcoming
+ungewöhnlich - Strange
+besichtigung - Touristic
+erschöpft - Exhausted
+verlängert - Lied down
+
+*adverbes - Adverbs*
+oft - Often
+selten - Rarely
+manchmal - Sometimes
+toujours
+ - Always
+ne (+verb) niemals - Never
+bereit - Ready
+morgen - 
+gestern - Yesterday
+vor - Before
+nach - After
+schließen - Near
+weit - Far
+hier - Here
+dort - There
+da drüben - Over there
+ein wenig - A little
+zu viel - Too much
+pflegen - Now
+alle - Every
+langsam - Slowly
+zusammen - Together
+tôt
+ - Early
+spät - Late
+normalerweise - Normally, usually
+vite
+ - Quickly
+im algemeinen - In general
+assez
+ - Enough
+runter - Downstairs
+aus - Outside
+genau - Exactly
+erstens - Firstly
+eine lange zeit - For a long time
+endlich schließlich - Finally
+littéralement
+ - Literally
+vollständig - Completely
+normalerweise - Usually/normally
+sicherlich - Surely
+genug - Enough
+kurz - In short
+bedauerlicherweise - Unfortunately
+wahrscheinlich - Probably
+vor allem - Notably, especially
+insbesondere - Particularly
+über alles - Mainly
+blindlings - Blindly
+ratsam - Advised
+sofort - Immediately
+tranquillement
+ - Calmly
+
+*konjunktionen - Conjuctions*
+parce que, car
+ - Because
+wegen - Because of
+so dass deshalb also - So
+obwohl (+name) - Although
+oder - Or
+aber - But
+und dann - Then
+und - And
+wenn - If
+das - That
+ansonsten - Otherwise
+wann - When
+von welchem - Of which
+wann - While
+trotz - Despite
+außer - Except
+also - As then so
+andererseits - However
+jedoch - Yet
+puisque
+ - Since
+
+*präpositionen - Prepositions*
+an - On
+in - In
+zu (au, aux) - To (the)
+in richtung - Towards
+de
+ - From, of
+mit - With
+ohne - Without
+gegenteil - Opposite
+entre
+ - Between
+parmi
+ - Among
+unten - Under
+über - Over
+hinter - Behind
+für - For
+vorne - In front of
+rechts - To the right
+schließen - Close
+nach links - To the left
+weit - Far
+bewertung - Next to
+tout droit
+ - Straight
+über - Above
+jusqu'à
+ - Until
+hoch - Up
+außer - Except
+während - During
+vorne - Across from the
+sobald - As soon as
+vorne - Facing
+auf die andere seite von - To the other side of
+
+*menschen - People*
+nachbar - Neighbor
+polizist - Police officer
+médecin
+ - Doctor
+allgemeinmediziner - GP
+feuerwehrmann - Fireman
+réceptionniste
+ - Receptionist
+der lehrer, lehrer - Teacher
+lehrer - Professor
+journalist - Journalist
+rechtsanwalt - Lawyer
+chef, patron
+ - Boss, manager
+freund - Friend
+der vater - Dad
+die mutter - Mum
+ein erwachsener - Adult
+der freund /-pine - Mate
+ein schauspieler/ - Actor
+die gruppe - Group, band
+menschen - People
+friseur/-use - Hairdresser
+kind - Kid
+das ehepaar - Couple
+neffe - Nephew
+nichte - Niece
+die tante - Aunt
+le gendre
+ - Son-in-law
+der könig/die königin - King, queen
+ein bauer - Farmer
+un author
+ - Author
+le juge
+ - Judge
+der prinz/-ungen - Prince
+der soldat - Soldier
+ein handwerker - Craftsman
+der händler - Storekeeper/merchant
+ein ingenieur - Engineer
+ein teenager, ein teenager - Teen
+der passagier - Passenger
+der mitbewohner - Roommate
+die öffentlichkeit - Audience
+dieb - Robber
+eine krankenschwester - Nurse
+der geschäftsführer - Manager
+der soldat - Soldier
+ein schriftsteller - Writer
+ein bauer - Farmer
+der chirurg - Surgeon
+die musikgruppe - Band
+der sucher - Researcher
+der ehepartner - Spouse
+
+*zeit - Time*
+ein jahr pro jahr - Year
+monat - Month
+die woche - Week
+der jeur/der tag - Day
+stunde - Hour
+minute - Minute
+zweite - Second
+montag - Monday
+dienstag - Tuesday
+mittwoch - Wednesday
+donnerstag - Thursday
+freitag - Friday
+samstag - Saturday
+sonntag - Sunday
+morgen - Morning
+mittag - Noon
+nachmittag - Afternoon
+abend - Evening
+nacht - Night
+mitternacht - Midnight
+am vormittag - A.M.
+morgen - 
+gestern - Yesterday
+januar - January
+februar - February
+marsch - March
+april - April
+mai - May
+juni - June
+juli - July
+august - August
+september - September
+oktober - October
+november - November
+dezember - December
+frühling - Spring
+sommer - Summer
+herbst - Autumn
+winter - Winter
+datum - Date
+jahreszeit - Season
+jahrhundert - Century
+ein halbe stunde - Half an hour
+
+*landschaft - Landscape*
+zeit - Weather
+sonne - Sun
+himmel - Sky
+ein baum - Tree
+blatt - Leaf
+blume - Flower
+wald - Forest
+fluss fluss - River
+meer, breit - Sea
+see - Lake
+berg - Mountain
+land - Country
+stadt - City
+dorf - Village
+straße - Road
+straße - Street
+wolke - Cloud
+regen - Rain
+schnee - Snow
+hagel - Hail
+der wind - Wind
+der rasen - Grass
+süd - South
+norden - North
+west - West
+ost - East
+gefroren - Freezing
+nebel - Fog
+eine insel - Island
+die seite - Coast
+das tal - Valley
+die küste - Shore/bank
+die klippe - Cliff
+die welle - Wave
+der strom - Stream
+ein regenguss - Downpour
+der wetterbericht - Forecast
+der regenmantel - Waterproof Jacket
+sommer - Summery
+
+*konzepte - Concepts*
+feiertage (plural) - Vacation
+staatsangehörigkeit - Nationality
+flug - Flight
+frieden - Peace
+lektion - Lesson
+gericht - Course, class
+das material - Subject
+projekt - Project
+zeitpläne - Schedule
+idee - Idea
+hunger - Hunger
+durstig - Thirst
+dusche - Shower
+bad - Bath
+schlafen - Sleep
+kampagne - Countryside
+party - Party
+picknick - Picnic
+lärm - Noise
+wort - Word
+seite - Page
+sprache - Language
+hausaufgaben - Homework
+satz - Sentence
+welt - World
+antwort - Answer
+geschäft - Company
+das teil - Part
+die dauer - Duration
+die periode - Period
+anfang - Beginning
+die jugend - Youth
+die geburt - Birth
+die wiedervereinigung/das treffen - Meeting
+der termin - Appointment
+die hochzeit - Marriage
+ein job, der job - Job
+die karriere - Career
+die arbeit - Profession
+rezept - Recipe
+ein feind - Enemy
+die menge - Crowd
+bevölkerung - Population
+der cartoon - Cartoon
+wortschatz - Vocabulary
+bezirk - City district
+die scheibe - Slice
+ein internet - Internet
+sex - Sex
+ein strom - Electricity
+eine ära - Era
+die mode - Fashion
+ein gewürz - Spice
+die lizenz - Licence, permit
+der weg - Way
+das spiel - Play
+die angst - Fear
+eine hoffnung - Hope
+pflege - Care
+das postamt - Position
+das trinkgeld - Tip
+fahrradrennen - Bike race
+ein interesse - Interest
+der schrei - Cry
+ein treffen - Interview
+intelligenz - piece of information
+eine erhöhung - Raise
+zugang - Access
+ein element - Element
+rauch - Smoke
+verschmutzung - Pollution
+hausarbeiten - Housework
+eine schande - Shame
+rhythmus - Pace/rhythm
+fieber - Fever
+eine erkältung - Cold
+erfolg, erfolg - Success
+das feuerwerk - Fireworks
+geburt - Childbirth
+das material - Material
+schmecken - Taste
+das verlassen - Leave (work)
+ausbildung - Training (work)
+der befehl - Order
+der bericht - Report
+die email - Email
+intelligenz - Information
+das medizinische zertifikat - Medical certificate
+ein staat - State
+eine verschreibung - Prescription
+kümmert sich - Care
+die tafel - Advice
+eine straftat - Offense
+der preis - Price
+die vorbereitung - Preparation
+schicht - Layer
+der boden - Background
+ein schritt - Step
+ein schatten - Shadow
+die formel - Plan (service)
+der aufenthalt - Stay
+wandern - Hike
+der weg - Journey
+der weg - Manner
+die vielfalt - Variety
+eine ankunft - Arrival
+ein abonnement - Subscribtion
+ein nachteil - Inconvenience
+finanzen - Finances
+ein willkommen - Homepage
+der kreis - Circle
+
+*verhör - Interrogative words*
+who - Who
+was was was - What
+oder - Where
+wann - When
+warum - Why
+wie - How
+was - Which
+wie viel - How much, many
+und wenn - What if
+
+*körperteile - Body parts*
+der kopf - Head
+der hals - Neck
+der arm - Arm
+der ellbogen - Elbow
+die hand - Hand
+finger - Finger
+eine schulter - Shoulder
+brust - Chest
+der bauch - Belly
+nabel - Navel
+der penis - Penis
+die vagina - Vagina
+das gesäß - Buttock
+eine leistengegend - Groin
+bein - Leg
+knie - Knee
+der knöchel - Ankle
+fuß - Foot
+der zeh - Toe
+die ferse - Heel
+haare (ein haar) - Hair (one hair)
+ein auge - Eye
+die nase - Nose
+der mund - Mouth
+ein ohr - Ear
+der zahn - Tooth
+das gesicht - Face
+der rücken - Back
+bart - Beard
+die stimme - Voice
+das blut - Blood
+die kehle - Throat
+stirn - Forehead
+sprache - Tongue
+das kinn - Chin
+
+*partikel - Particles*
+das - Than, that, what
+mehr - More
+mehr und mehr - More and more
+weniger - Less
+auch dass - As... as
+wirklich - Really
+etwa - About, around
+auch - Also, too, as well
+sogar - Same
+wieder - Again
+lächeln - Only
+noch - Yet
+als solche - Like
+bereits - Already
+fast - Almost
+gegen - Against
+
+*transport - Transport*
+fahrzeug - Vehicle
+auto - Car
+fahrrad - Bike
+motorrad) - Motorcycle
+bus - Bus
+taxi - Taxi
+zug - Train
+bahnhof - Station
+bushaltestelle - Bus stop
+flughafen - Airport
+flugzeug - Plane
+schiff - Ship
+boot - Boat
+metro - Subway
+rad - Wheel
+der reifen - Tire
+ein stau - Traffic jam
+eine autobahn - Highway
+die verbotene bedeutung - forbidden way
+zirkulieren - to circulate
+der autobahncode - Highway code
+der eine -weg - One way
+die brücke - Bridge
+die parkkarte - Parking card
+die sackgasse - Dead end
+das signalfeld - Traffic sign
+eine allee - Avenue
+ein stop - (Bus, tram, subway) stop
+ein distrikt - Arrondissement
+die richtigkeit - Means of transport
+ein hinweis - Direction
+feuer - Traffic light
+
+*ausdrücke - Phrases*
+tour nach links/rechts - Turn left/right
+sein (+infinitiv) - To be doing
+am meisten - The most
+alle - Whole
+will wissen - Want to get to know
+auf keinen fall - Not at all
+in der ganzen welt - All over the world
+mehr als - More than
+natürlich - Of course
+in ordnung - Ok, all right
+schmerzen haben (am genau) - my (knee) hurts
+kopfschmerzen haben - to have a headache
+ich bin nur (+infinitiv) - I have just (+past)
+er bleibt qc - There are sth left
+sie müssen besuchen - One must visit
+fest die farm - To knock on the door
+heimweh haben - to feel homesick
+zu beginn von qc - At the beginning of sth
+kann ich qc machen - May I do sth
+bei zwölf und zehn - At ten past twelve
+nach zwanzig stunden weniger die - At quarter to twenty
+machen sie eine röntgenaufnahme - To take an x-ray
+sprich darüber - To talk/speak about
+qc gehört mir - Sth is mine
+selbst - Yourself
+schnellstens - as soon as possible
+in rente sein - to be retired
+sie geht um das haus herum - She walks around the house
+schritt für schritt - Little by little
+wie das sprichwort sagt - Like they say
+laut lq - According to sb
+seit heute - 
+sofort - Right away
+am ende - At the end
+vor langer zeit - A long time ago
+wie süß du bist! - Que tu est mignon!
+du bist radelt - You used to bike
+in meiner zeit - In my day
+du siehst gestresst aus - You look stressed
+will +infinitiv - To have a need for
+bei guter gesundheit - Healthy, in good health
+in form - good, in shape
+sich schämen - Ashamed
+möchten sie gerne - Do you feel like
+sich beeilen - to be in a rush
+zuging - to go towards
+die nase voll haben - to be fed up
+sich nicht darum kümmern - to not care
+durch diese straße gehen - to go this street
+an der straßenecke - au coin de la rue
+wo auch immer - n'importe ou
+die hausarbeit machen - to do housework
+brandneu - all/brand new
+fürchten - to be afraid
+auf praktikum - Sur scène
+vergehen - to go through
+helfen! - Help!
+ich kann nicht - I'm not able to
+hausfrau - Stay-at-home mom
+fürchten - to be afraid
+perfekt gekocht - Medium rare
+blutung - Rare
+wie schreibst du das - How is it spelled
+streiken - to go on strike
+ein stück brot - a piece of bread
+ein stück pizza - a slice of pizza
+auf diese weise sein - to be like that
+auf diese weise - This way
+über alles - Above all
+schockieren - to be in shock
+am ende der klippe - to the bottom of the cliff
+poesie gehört dem, der es braucht - Poetry belongs to whoever needs it
+in diesem moment - at that moment
+sobald - as soon as
+sich unwohl fühlen - Uncomfortable
+ausziehen - To undress
+nicht funktionsfähig sein - to be broken down
+
+ - for rent
+offen sein für - be open to
+die versicherungsgesellschaft - Insurance company
+schnellstens - as soon as possible
+dank an - thanks to
+es ist eine schande - that's a shame
+was ist los mit dir? - What's wrong?
+temperatur - to take one's temperature
+übel sein - to be naseous
+diät - to follow a diet
+in kreisen/u-turn laufen - to turn around
+in den ferien sein - to be on holiday
+sei frei - to be free
+am abend - at the party
+gut laufen - to fit (clothes)
+kasse - with cash
+mit kreditkarte - with card
+auswendig - by heart
+peitsche - to beat egg whites
+sei beschützt - to be protected
+die zwölfs - Twenties
+zurück sein - to be back
+wegbringen - to take with self
+draußen - Outside
+ich - It seems that
+geh tauchen - to go diving
+leidenschaftlich sein - to be passionate about
+da drüben - down there
+recherchieren - to do research
+zurück sein - to be back
+hände schütteln - to shakae hands
+essgewohnheit - Eating habit
+kuss - ti give a kiss
+nimm dir zeit - to take time
+in der gleichen meinung sein - to be of the same opinion
+joggen - to jog
+das wundert mich nicht - that doesn't surprise me
+sich wohl fühlen - to be at ease
+dein gallien - Shut up
+ich denke nur - I am only thinking of

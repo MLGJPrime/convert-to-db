@@ -19,7 +19,7 @@ def translate_to_german(word_tuples, retries=3):
                 translated_phrase = translator.translate(phrase.lower(), src='fr', dest='de').text  # noqa: E501
                 word_tuples[i] = (translated_phrase.lower(), translation)
                 break
-            except AttributeError:
+            except (AttributeError, IndexError):
                 tqdm.write(f"Error translating phrase: {phrase}")
                 break
             except ReadTimeout:
