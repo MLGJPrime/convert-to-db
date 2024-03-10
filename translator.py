@@ -5,17 +5,28 @@ It includes a main function for testing purposes.
 
 from googletrans import Translator
 from tqdm import tqdm
+from httpcore import ReadTimeout
 
 
-def translate_to_german(word_tuples):
+def translate_to_german(word_tuples, retries=3):
     """Translates a list of French phrases to German."""
     translator = Translator()
-    for i in tqdm(range(len(word_tuples)), desc="Translating phrases"):
+    pbar = tqdm(range(len(word_tuples)), desc="Translating phrases")
+    for i in pbar:
         phrase, translation = word_tuples[i]
-        translated_phrase = translator.translate(
-            phrase.lower(), src='fr', dest='de').text
-        word_tuples[i] = (translated_phrase.lower(), translation)
-    return word_tuples
+        for _ in range(retries):
+            try:
+                translated_phrase = translator.translate(phrase.lower(), src='fr', dest='de').text  # noqa: E501
+                word_tuples[i] = (translated_phrase.lower(), translation)
+                break
+            except AttributeError:
+                tqdm.write(f"Error translating phrase: {phrase}")
+                break
+            except ReadTimeout:
+                tqdm.write(f"Timeout error translating phrase: {phrase}. Retrying...")  # noqa: E501
+        else:
+            tqdm.write(f"Failed to translate phrase: {phrase} after {retries} attempts.")  # noqa: E501
+    return [word_tuple for word_tuple in word_tuples if word_tuple[0] is not None]  # noqa: E501
 
 
 def main():
