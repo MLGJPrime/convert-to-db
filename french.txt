@@ -1,4 +1,5 @@
-*Pronouns - pronoms*
+*P*
+*ronouns - pronoms*
 I - je
 You - tu
 He - il
@@ -260,6 +261,7 @@ to dissolve - dissoudre
 to swallow - avaler
 to operate - opérer
 to get well - se rétablir
+to locate oneself - se repérer
 to be mistaken - se tromper
 to hesitate - hésiter
 to advise - conseiller
@@ -283,7 +285,7 @@ to enjoy - s'amuser
 to discover - découvrir
 to lend - prêter
 to locate (self) - (se) repérer
-to warn, prevent - prévenir
+to warn - prevent - prévenir
 to disturb - déranger
 to wonder - se demander
 to get used to - s'habituer
@@ -431,7 +433,7 @@ Chive - la ciboulette
 Plum - la prune
 Basil - le basilic
 Mashed potaties - la purée de pommes de terre
-Beefsteak - le steak de bœuf
+Beefsteak- le steak de bœuf
 Side dish - un accompagnement
 Ingredient - un ingrédient
 Mix - le mélange
@@ -784,7 +786,7 @@ Near - près
 Far - loin
 Here - ici
 There - là
-Over there - là bas
+Over there - là -bas
 A little - un peu
 Too much - trop
 Now - maintenent
@@ -990,7 +992,7 @@ Street - rue
 Cloud - nuage
 Rain - pluie
 Snow - neige
-Hail - grêle
+Hail- grêle
 Wind - le vent
 Grass - la pelouse
 South - sud

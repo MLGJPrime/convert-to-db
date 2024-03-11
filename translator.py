@@ -12,12 +12,13 @@ def translate_to_german(word_tuples, retries=3):
     """Translates a list of French phrases to German."""
     translator = Translator()
     pbar = tqdm(range(len(word_tuples)), desc="Translating phrases")
+    successful_translations = []  # New list for successful translations
     for i in pbar:
         phrase, translation = word_tuples[i]
         for _ in range(retries):
             try:
                 translated_phrase = translator.translate(phrase.lower(), src='fr', dest='de').text  # noqa: E501
-                word_tuples[i] = (translated_phrase.lower(), translation)
+                successful_translations.append((translated_phrase.lower(), translation))  # noqa: E501
                 break
             except (AttributeError, IndexError):
                 tqdm.write(f"Error translating phrase: {phrase}")
@@ -26,7 +27,7 @@ def translate_to_german(word_tuples, retries=3):
                 tqdm.write(f"Timeout error translating phrase: {phrase}. Retrying...")  # noqa: E501
         else:
             tqdm.write(f"Failed to translate phrase: {phrase} after {retries} attempts.")  # noqa: E501
-    return [word_tuple for word_tuple in word_tuples if word_tuple[0] is not None]  # noqa: E501
+    return successful_translations
 
 
 def main():

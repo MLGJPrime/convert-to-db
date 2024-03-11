@@ -19,27 +19,28 @@ anderswo - Elsewhere
 
 *verben - Verbs*
 gehen - to go
-komm, ankommen - to come
+kommen, ankommen - to come
 sprechen - to talk
-lauf lauf - to walk, stroll
+gehen - to walk
+spazieren - to stroll
 essen - to eat
 nehmen - to have, take
 trinken - to drink
 sehen - to see
 sehen - to watch
-von (bâtimont) - to leave (the building)
-aussteigen (raum) - to leave (the room)
+verlassen - to leave
+ausgehen - to exit
 drehen - to turn
 lesen - to read
 schreiben - to write
-want (+ infinitiv) - to want (+ infinitive)
-macht (+ infinitiv) - to be able (+ infinitive)
-devoire (+ infinitiv) - to have to (+ infinitive)
+wollen) - to want 
+leistung - to be able 
+um zu sehen - to have to 
 kochen, kochen - to cook
-transportieren, setzen - to wear
+tragen - to wear
 setzen - to don
 bleiben - to stay
-vorbereiten - to make, prepare a meal
+vorbereiten - to prepare a meal
 offen - to open
 schließen - to close
 spielen - to play
@@ -301,8 +302,7 @@ das badezimmer, die toilette - Bathroom
 die eingangshalle - entrance hall, room
 büro - Office
 das klassenzimmer - Classroom
-la salle de rèunion
- - Meeting room
+der besprechungsraum - Meeting room
 die höhle - Cellar
 der aufenthalt - Hall
 der schlüssel - Key
@@ -310,173 +310,116 @@ tisch - Table
 der stuhl - Chair
 das fenster - Window
 fernseher - TV
-le frigo
- - Refrigerator
+der kühlschrank - Refrigerator
 die dusche - Shower
 kleiderschrank - Cupbord
 der spiegel - Mirror
-une assiette
- - Plate
+ein teller - Plate
 die schale - Bowl
 der löffel - Spoon
-la fourchettes
- - Fork
+die gabeln - Fork
 besteck - Cutlery
 informationen (+plural) - News
-un étage
- - Floor
-le plafond
- - Ceiling
+ein boden - Floor
+die decke - Ceiling
 die mauer - Wall
-le canapé
- - Couch
+die couch - Couch
 der boden/der boden - Floor (of house)
 das schwimmbecken - Pool
-cache
- - Hiding place
-le berceau
- - Crib
-la couverture
- - Blanket
-baignoire
- - Bathtub
-un évier
- - Sink
-le rideau
- - Curtain
-une étagère
- - Shelf
-le rez-de-chaussée
- - Ground floor
-la commode
- - Dresser
+versteckt - Hiding place
+die wiege - Crib
+die titelseite - Blanket
+badewanne - Bathtub
+waschbecken - Sink
+der vorhang - Curtain
+ein regal - Shelf
+das erdgeschoss - Ground floor
+die kommode - Dresser
 die schublade - Drawer
 fliesen - Tiles
 das erdgeschoss - Ground floor
 der aufzug - Lift
 der kassierer - Locker
-le vestiaire
- - Locker room
-le rayon
- - Shelf (store)
-le dessin animé
- - Cartoon
+die umkleidekabine - Locker room
+der strahl - Shelf (store)
+der cartoon - Cartoon
 
 *tiere - Animals*
-le chat
- - Cat
+katze - Cat
 der hund - Dog
-le chouette
- - Owl
-le cheval
- - Horse
-la vache
- - Cow
+die eule - Owl
+pferd - Horse
+die kuh - Cow
 das kaninchen - Rabbit
-l'oiseau
- - Bird
-le tortue
- - Turtle
-poulet
- - Chicken
-coq
- - Cock
-le poisson
- - Fish
-le singe
- - Monkey
-le lion
- - Lion
-le tigre
- - Tiger
+vogel - Bird
+die schildkröte - Turtle
+huhn - Chicken
+hahn - Cock
+fisch - Fish
+der affe - Monkey
+löwe - Lion
+der tiger - Tiger
 die maus - Mouse
 elefant - Elephant
 ente - Duck
-le cochon
- - Pig
-un ours
- - Bear
-la mouche
- - Fly
+das schwein - Pig
+ein bär - Bear
+fliege - Fly
 der hai - Shark
 der delfin - Dolphin
-une araignée
- - Spider
-le serpent
- - Snake
-une abeille
- - Bee
+eine spinne - Spider
+die schlange - Snake
+eine biene - Bee
 die ameise - Ant
 der schmetterling - Butterfly
-la baleine
- - Whale
-le loup/la louve
- - Wolf
-une insecte
- - Insect
-une espèce
- - Species
+der wal - Whale
+der wolf/der wolf - Wolf
+ein insekt - Insect
+eine spezies - Species
 die ziege - Goat
 
-*nourritures - Food*
+*lebensmittel - Food*
 frühstück - Breakfast
-déjeuner
- - Lunch
-dîner
- - Dinner
-désert
- - Desert
+mittagessen - Lunch
+abendessen - Dinner
+wüste - Desert
 apfel - Apple
-orange
- - Orange
-œuf
- - Egg
+orange - Orange
+ei - Egg
 brot - Bread
 wasser - Water
 milch - Milk
-pizza
- - Pizza
+pizza - Pizza
 kuchen - Cake
-confiture
- - Jam
+marmelade - Jam
 erdbeere - Strawberry
-miel
- - Honey
+honig - Honey
 butter - Butter
 die zitrone - Lemon
 tomate - Tomato
-la viande
- - Meat
+fleisch - Meat
 reis - Rice
-glace
- - Ice cream
+eis - Ice cream
 messwasser - Sparkling water
 keks - Biscuit
-soupe
- - Soup
-la crêpe épais
- - Pancake
+suppe - Soup
+dicker pfannkuchen - Pancake
 schweinefleisch - Pork
-le bœuf
- - Beef
+rindfleisch - Beef
 öl - Oil
 zwiebel - Onion
 die traube - Grapes
-le bonbon
- - Candy
+die süßigkeit - Candy
 der pfeffer - Pepper
 bohne - Bean
-les patês
- - Pasta
+pasta - Pasta
 das müsli - Cereal
-la courgette
- - Zucchini
+die zucchini - Zucchini
 wurst/wurst - Sausage
 die birne - Pear
 die schlagsahne - Whipped cream
 mehl - Flour
-la pancement
- - Band aid
+das verbotene - Band aid
 medikamente - Medication
 der eiswürfel - Ice cube
 die dose - Can
@@ -485,21 +428,16 @@ spinat - Spinach
 blumenkohl - Cauliflower
 die essiggurke - Pickle
 der kürbis - Pumpkin
-la ciboulette
- - Chive
+schnittlauch - Chive
 die pflaume - Plum
 die basilikum - Basil
-la purée de pommes de terre
- - Mashed potaties
+kartoffelpüree - Mashed potaties
 rindfleischsteak - Beefsteak
 eine unterstützung - Side dish
-un ingrédient
- - Ingredient
-le mélange
- - Mix
+eine zutat - Ingredient
+die mischung - Mix
 boudoir - Ladyfinger
-le régal
- - Treat
+der genuss - Treat
 ein kabeljau acra - Cod acra
 kalbseintopf - veal blanquette
 
@@ -508,10 +446,9 @@ eine kirche - Church
 schule - School
 der wolkenkratzer - Skyscraper
 ein krankenhaus - Hospital
-la boulangerie
- - Bakery
+die bäckerei - Bakery
 das geschäft - Store
-das upermarché/a grock - Grocery store
+das upermarché/ein gorn - Grocery store
 das haus - House
 eine universität - University
 das kino - Movie theatre
@@ -525,11 +462,9 @@ süßwaren - Sweets shop
 die bibliothek - Library
 der bücherladen - Bookstore
 weiterführende schule - High school
-le salon de coiffure
- - Barbershop
+friseur - Barbershop
 die apotheke - Pharmacy
-le port
- - Port
+der hafen - Port
 das geschäft - Boutique
 die bar - Bar
 metzgerei - Butcher shop
@@ -556,15 +491,12 @@ uhr - Clock
 handtuch - Towel
 geld - Money
 passwort - Password
-coteau
- - Knife
+hügel - Knife
 papier - Paper
 malerei  - Painting
-cadeau
- - Gift, present
+geschenk - Gift, present
 kamera - Camera
-poupée
- - Doll
+puppe - Doll
 kasten - Box
 geldbörse - Wallet
 der kalender - Calendar
@@ -573,36 +505,30 @@ der ordner - File, folder
 das parfüm - Perfume
 die flagge - Flag
 das pulver - Powder
-un écran
- - Screen
-un adaptateur
- - Adaptor
+ein bildschirm - Screen
+ein adapter - Adaptor
 ein umschlag - Envelope
 rad - Wheel
 das licht - Light
-une allumette
- - Match
+eine übereinstimmung - Match
 die kerze - Candle
 das ladegerät - Charger
 ein werkzeug - Tool
 der regenschirm - Umbrella
-la croix
- - Cross
+das kreuz - Cross
 faden - Thread
 die karte - Card
 die kiste - Crate
 der rahmen - Frame
 der mülleimer - Trash can
 ein plakat - Poster
-le timbre
- - Post stamp
+die briefmarke - Post stamp
 ein umschlag - Envelope
 räume - Coins
 die kreditkarte - Debit card
 die titelseite - Blanket
 das spielzeug - Toy
-le jeu vidéo
- - Video game
+das videospiel - Video game
 das brettspiel - Board game
 die schere - Scissors
 das bügeleisen - Iron
@@ -617,8 +543,7 @@ die briefmarke - Pill
 der fotokopierer - Photocopier
 das gefäss - Jar
 die mikrowelle - Microwave
-la machine à laver
- - Washing machine
+waschmaschine - Washing machine
 die fernbedienung - Remote control
 der schlüsselbund - Keychain
 gegenseitige karte - Health insurance card
@@ -631,24 +556,18 @@ sonnencreme - Sunscream
 *kleidung - Clothes*
 das kleid - Dress
 das kostüm, schneider - Suit
-la jupe
- - Skirt
-le pantalon
- - Pants
-le teeshirt
- - T-shirt
-chemise, chemisier
- - Shirt
+der rock - Skirt
+hose - Pants
+t-shirt - T-shirt
+hemdbluse - Shirt
 jacke - Jacket
 pullover - Sweater
 schuhe - Shoes
 hausschuhe - Slippers
 slip, calcif - Underpants
-sous-vêtemants
- - Underwear
+unterwäsche - Underwear
 hut - Cap
-manteau
- - Coat
+mantel - Coat
 gläser - Glasses
 stiefel - Boot
 jeans - Jeans
@@ -656,24 +575,19 @@ die dose - Belt
 die tasche - Pocket
 der handschuh - Glove
 die socke - Sock
-la cravate
- - Tie
+die krawatte - Tie
 ein schal - Scarf
-la casquette
- - Hat
+die kappe - Hat
 ein regenmantel - Raincoat
-la collection
- - Collection
+die sammlung - Collection
 ein zubehör - Accessiry
 der kanal - Sleeve
 die kleidung - Outfit
-les chaussures
- - Shoes
+die schuhe - Shoes
 die bluse - Blouse
 die größe - Size
 der stoff - Fabric
-le style
- - Style
+der style - Style
 die dressingkabine - Fitting room
 das model - Model
 der brauch - Costume
@@ -684,8 +598,7 @@ gut sein - To be good/bad at
 fußball - Football
 basketball ball) - Basketball
 tennis - Tennis
-golf
- - Golf
+golf - Golf
 übereinstimmen - Match
 
 *adjektive - Adjectives*
@@ -695,8 +608,7 @@ schöne hübsche - Beautiful
 glücklich, glücklich/-euse - Happy
 lustig lustig - Funny
 gut - Well
-gentil
- - Nice, kind
+art - Nice, kind
 intelligent - Intelligent
 clever - Clever
 schlau - Crafty
@@ -717,16 +629,12 @@ verboten - Forbidden
 angemessen - Hungry
 asoiffé - Thirsty
 gebäude, gelangweilt werden - Bored
-froid
- - Cold
-chaud
- - Hot
+kalt - Cold
+heiß - Hot
 reich - Rich
-pouvre
- - Poor
+verlust - Poor
 dünn - Thin
-lounge
- - Long
+salon - Long
 schön, liebt - Nice, pleasant
 kurz - Short
 stress - Stressed
@@ -734,13 +642,11 @@ müde - Tired
 krank - Sick, ill
 traurig - Sad
 neu/-i - New
-célèbre
- - Famous
+berühmt - Famous
 vergessen - Forgotten
 allein - Alone
 sogar - Same
-diférent
- - Different
+anders - Different
 beschäftigt - Occupied
 favorit - Favourite
 entschuldigung - Sorry
@@ -755,8 +661,7 @@ besorgt - Worried
 zuletzt - Last
 ruhig - Calm
 klar - Clear
-sombre, foncé
- - Dark
+dunkel, dunkel - Dark
 stark - Strong
 riesig - Enormous
 böse - Vicious
@@ -769,13 +674,11 @@ licht/-ère - Light
 schwer - Heavy
 weich/-wucken - Mild, gentle
 wahr - True
-libre
- - Available, free
+frei - Available, free
 dick - Thick
 elektrisch - Electric
 real - Real
-pareil
- - Alike, the same
+das gleiche - Alike, the same
 wohnung - Flat
 logik - Logical
 seltsam - Strange
@@ -791,16 +694,13 @@ beliebt - Popular
 solide - Solid
 ende - Thin
 verantwortlich - Responsible
-sauvage
- - Wild
-efficace
- - Efficient
+brutal - Wild
+wirksam - Efficient
 geheimnis - Secret
 kraftvoll - Powerful
 falsch - False, wrong
 ideal - Ideal
-précieux
- - Precious
+wertvoll - Precious
 komfortabel - Comfortable
 rothaarige - Redheaded
 mehrere - Several
@@ -812,10 +712,8 @@ verrückt/-alle - Crazy
 lecker/-ireuse - Delicious
 süß/-nene - Cute
 täglich - Daily (journal)
-hebdomadaire
- - Weekly (journal)
-spéciau
- - Special
+wöchentlich - Weekly (journal)
+besonders - Special
 laut - Noisy
 überfüllt - Crowded
 abbauen - Broken
@@ -831,8 +729,7 @@ kahl - Bald
 aktuell - Current
 wesentlich - Major
 alt/-ee - Former
-franc
- - Frank, honest
+franc - Frank, honest
 vorsichtig - Careful
 weise - Well-behaved
 verschmutzt - Polluted
@@ -840,38 +737,31 @@ blind - Blind
 taub - Deaf
 ordentlich - Tidy
 schick - Stylish
-angoissé
- - Anxious
-mouillé
- - Wet
+pein - Anxious
+nass - Wet
 offensichtlich - Certain
 gerührt - Moved, touched
 friedlich - Gentle
 kosten - Fresh
 zucker - Sweet
-juteux
- - Juicy
+saftig - Juicy
 schmerzlich - Painful
-effervescent
- - Effervescent
+sprudel - Effervescent
 kompliziert - Complicated
 genau - Precise
 neugierig - Curious
 ungeduldig - Impatient
 hauptsächlich - Main
 matching - Matched
-hors de prix
- - Overpriced
+überteuert - Overpriced
 licht - Light
 breit - Large
 appetitlich - Appetizing
 frisch - Fresh
-délicat
- - Delicate
+empfindlich - Delicate
 liebhaber - In love
 eule - Satisfied?
-jaloux
- - Jealous
+eifersüchtig - Jealous
 luxuriös/-euese - Luxurious
 begrüßung - Welcoming
 ungewöhnlich - Strange
@@ -879,12 +769,11 @@ besichtigung - Touristic
 erschöpft - Exhausted
 verlängert - Lied down
 
-*adverbes - Adverbs*
+*adverbien - Adverbs*
 oft - Often
 selten - Rarely
 manchmal - Sometimes
-toujours
- - Always
+stets - Always
 ne (+verb) niemals - Never
 bereit - Ready
 morgen - 
@@ -902,23 +791,19 @@ pflegen - Now
 alle - Every
 langsam - Slowly
 zusammen - Together
-tôt
- - Early
+früh - Early
 spät - Late
 normalerweise - Normally, usually
-vite
- - Quickly
+schnell - Quickly
 im algemeinen - In general
-assez
- - Enough
+genug - Enough
 runter - Downstairs
 aus - Outside
 genau - Exactly
 erstens - Firstly
 eine lange zeit - For a long time
 endlich schließlich - Finally
-littéralement
- - Literally
+buchstäblich - Literally
 vollständig - Completely
 normalerweise - Usually/normally
 sicherlich - Surely
@@ -932,12 +817,10 @@ insbesondere - Particularly
 blindlings - Blindly
 ratsam - Advised
 sofort - Immediately
-tranquillement
- - Calmly
+ruhig - Calmly
 
 *konjunktionen - Conjuctions*
-parce que, car
- - Because
+weil weil - Because
 wegen - Because of
 so dass deshalb also - So
 obwohl (+name) - Although
@@ -956,23 +839,19 @@ außer - Except
 also - As then so
 andererseits - However
 jedoch - Yet
-puisque
- - Since
+seit - Since
 
 *präpositionen - Prepositions*
 an - On
 in - In
 zu (au, aux) - To (the)
 in richtung - Towards
-de
- - From, of
+von - From, of
 mit - With
 ohne - Without
 gegenteil - Opposite
-entre
- - Between
-parmi
- - Among
+zwischen - Between
+unter - Among
 unten - Under
 über - Over
 hinter - Behind
@@ -983,11 +862,9 @@ schließen - Close
 nach links - To the left
 weit - Far
 bewertung - Next to
-tout droit
- - Straight
+geradeaus - Straight
 über - Above
-jusqu'à
- - Until
+bis - Until
 hoch - Up
 außer - Except
 während - During
@@ -999,18 +876,15 @@ auf die andere seite von - To the other side of
 *menschen - People*
 nachbar - Neighbor
 polizist - Police officer
-médecin
- - Doctor
+arzt - Doctor
 allgemeinmediziner - GP
 feuerwehrmann - Fireman
-réceptionniste
- - Receptionist
+rezeptionist - Receptionist
 der lehrer, lehrer - Teacher
 lehrer - Professor
 journalist - Journalist
 rechtsanwalt - Lawyer
-chef, patron
- - Boss, manager
+chef, boss - Boss, manager
 freund - Friend
 der vater - Dad
 die mutter - Mum
@@ -1025,14 +899,11 @@ das ehepaar - Couple
 neffe - Nephew
 nichte - Niece
 die tante - Aunt
-le gendre
- - Son-in-law
+der sohn -in -law - Son-in-law
 der könig/die königin - King, queen
 ein bauer - Farmer
-un author
- - Author
-le juge
- - Judge
+ein autor - Author
+der richter - Judge
 der prinz/-ungen - Prince
 der soldat - Soldier
 ein handwerker - Craftsman
@@ -1430,8 +1301,6 @@ sobald - as soon as
 sich unwohl fühlen - Uncomfortable
 ausziehen - To undress
 nicht funktionsfähig sein - to be broken down
-
- - for rent
 offen sein für - be open to
 die versicherungsgesellschaft - Insurance company
 schnellstens - as soon as possible
